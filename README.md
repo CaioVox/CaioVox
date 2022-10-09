@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
----
-
 <div style="in_line">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/?username=CaioVox&show_icons=true&hide_border=true&theme=algolia&count_private=true">
 </div>
